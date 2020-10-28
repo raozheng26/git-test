@@ -17,4 +17,10 @@ public class FirstGit {
         System.out.println("第一个Git测试");
         System.out.println("第一个Git测试");
     }
+
+    public void test(){
+
+        System.out.println("test()方法执行");
+
+    }
 }
