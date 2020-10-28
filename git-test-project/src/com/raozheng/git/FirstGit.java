@@ -19,9 +19,7 @@ public class FirstGit {
     }
 
     public void test(){
-
-
         System.out.println("test()方法修改!!!!!!!!!!!!");
-
+        System.out.println("test()方法修改!!!!!!!!!!!!");
     }
 }
